@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+* Fourth year computer science student at MRU.
+* Experience with Java, C and Python.
+* Interested in AI, database management, and user interface design.
+* Reach me at tracandrew@gmail.com.
+
 <!--
 **CheekBreek/CheekBreek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
