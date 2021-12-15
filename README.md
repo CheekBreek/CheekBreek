@@ -3,6 +3,7 @@
 * Fourth year computer science student at MRU.
 * Experience with Java, C and Python.
 * Interested in AI, database management, and user interface design.
+* Looking for a computer science internship.
 * Reach me at tracandrew@gmail.com.
 
 <!--
