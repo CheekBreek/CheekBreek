@@ -2,8 +2,8 @@
 
 * Fourth year computer science student at MRU.
 * Experience with Assembly, Java, C/C++ and Python.
-* Interested in AI, software development, and user interface design.
-* Looking for a computer science internship.
+* Interested in AI and software development.
+* Looking for a computer science new grad positions.
 * Reach me at tracandrew@gmail.com.
 
 <!--
